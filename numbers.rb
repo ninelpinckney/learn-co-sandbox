@@ -4,5 +4,5 @@ def ab
 end 
  def ab
    puts a * b 
- end
+
  
